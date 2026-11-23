@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>长沙夜生活｜夜场派对组局</title>
+  <link>https://chujiangnan.github.io/changsha-party/</link>
+  <description>长沙夜生活一手资讯：解放西酒吧夜店避坑指南、周末派对组局报名。</description>
+  <language>zh-CN</language>
+  <item>
+    <title>长沙组局怎么玩？第一次参加派对组局的新手指南</title>
+    <link>https://chujiangnan.github.io/changsha-party/posts/zuju-zenme-wan.html</link>
+    <description>组局是什么、适合谁、怎么报名、去之前要准备什么。第一次参加组局的新手指南。</description>
+    <pubDate>Mon, 24 Nov 2026 00:00:00 +0800</pubDate>
+    <guid>https://chujiangnan.github.io/changsha-party/posts/zuju-zenme-wan.html</guid>
+  </item>
+  <item>
+    <title>解放西夜场新手避坑：去之前先搞懂这 3 件事</title>
+    <link>https://chujiangnan.github.io/changsha-party/posts/jiefangxi-bikeng.html</link>
+    <description>卡座低消先问清、酒水套餐先看清单、周末排队早点到。第一次去解放西的朋友建议收藏。</description>
+    <pubDate>Sun, 23 Nov 2026 00:00:00 +0800</pubDate>
+    <guid>https://chujiangnan.github.io/changsha-party/posts/jiefangxi-bikeng.html</guid>
+  </item>
+  <item>
+    <title>解放西：长沙夜生活的心脏</title>
+    <link>https://chujiangnan.github.io/changsha-party/posts/jiefangxi.html</link>
+    <description>解放西是长沙夜生活最集中的地方：酒吧、夜店、KTV 扎堆，周末人最多。</description>
+    <pubDate>Sat, 22 Nov 2026 00:00:00 +0800</pubDate>
+    <guid>https://chujiangnan.github.io/changsha-party/posts/jiefangxi.html</guid>
+  </item>
+</channel>
+</rss>
