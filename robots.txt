@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chujiangnan.github.io/changsha-party/sitemap.xml
