@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chujiangnan.github.io/changsha-party/sitemap.xml
+Sitemap: https://changsha168.ggff.net/sitemap.xml
